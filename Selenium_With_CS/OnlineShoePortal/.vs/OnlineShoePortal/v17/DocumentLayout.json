@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E-Drive\\Learnings\\Selenium\\Selenium_With_CS\\OnlineShoePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA94F8C3-9923-47A5-B28C-3D251C1CB694}|OnlineShoePortal.csproj|d:\\e-drive\\learnings\\selenium\\selenium_with_cs\\onlineshoeportal\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA94F8C3-9923-47A5-B28C-3D251C1CB694}|OnlineShoePortal.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\E-Drive\\Learnings\\Selenium\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "D:\\E-Drive\\Learnings\\Selenium\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:26:22.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

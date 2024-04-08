@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.IO;
 using System.Reflection;
+using System.Configuration;
 
 namespace OnlineShoePortal
 {
@@ -18,7 +19,8 @@ namespace OnlineShoePortal
             chromeOptions.AddArgument("-no-sandbox");
             driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions);
             //driver.Navigate().GoToUrl("https://www.google.co.in/");
-            driver.Navigate().GoToUrl("https://github.com/pavithra-pvb/hands-on");
+            //driver.Navigate().GoToUrl("https://github.com/pavithra-pvb/hands-on");
+            driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["URL"]);
         }
     }
 }

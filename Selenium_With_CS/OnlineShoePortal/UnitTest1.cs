@@ -20,8 +20,7 @@ namespace OnlineShoePortal
             var chromeOptions = new ChromeOptions();
             chromeOptions.AddArgument("-no-sandbox");
             driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), chromeOptions);
-            //driver.Navigate().GoToUrl("https://www.google.co.in/");
-            //driver.Navigate().GoToUrl("https://github.com/pavithra-pvb/hands-on");
+            //driver.Navigate().GoToUrl(https://anupdamoda.github.io/AceOnlineShoePortal/");
             driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["URL"]);
 
             driver.FindElement(By.CssSelector("#menuToggle > input[type=checkbox]")).Click();
@@ -37,7 +36,7 @@ namespace OnlineShoePortal
             var txtbx_pwdlength = driver.FindElements(By.Id("pwd")).Count;
             Assert.AreEqual(1, txtbx_pwdlength);
 
-            var loginButton = driver.FindElements(By.XPath("//input[@value='Login']"));
+            var loginButton = driver.FindElements(By.XPath("//input[@value='Login']")).Count;
             Assert.AreEqual(1, loginButton);
 
             driver.FindElement(By.Id("NewRegistration")).Click();

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bhatpavi\\source\\repos\\pavithra-pvb\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\",
+  "WorkspaceRootPath": "H:\\E-Drive\\Learnings\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA94F8C3-9923-47A5-B28C-3D251C1CB694}|OnlineShoePortal.csproj|c:\\users\\bhatpavi\\source\\repos\\pavithra-pvb\\hands-on\\selenium_with_cs\\onlineshoeportal\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA94F8C3-9923-47A5-B28C-3D251C1CB694}|OnlineShoePortal.csproj|h:\\e-drive\\learnings\\hands-on\\selenium_with_cs\\onlineshoeportal\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA94F8C3-9923-47A5-B28C-3D251C1CB694}|OnlineShoePortal.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\bhatpavi\\source\\repos\\pavithra-pvb\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
+              "DocumentMoniker": "H:\\E-Drive\\Learnings\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\bhatpavi\\source\\repos\\pavithra-pvb\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
+              "ToolTip": "H:\\E-Drive\\Learnings\\Hands-On\\Selenium_With_CS\\OnlineShoePortal\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAiwCgAAAAsAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T10:26:22.622Z",
               "EditorCaption": ""

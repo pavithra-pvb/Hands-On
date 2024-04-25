@@ -581,3 +581,6 @@ H:\E-Drive\Learnings\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\MSTest
 H:\E-Drive\Learnings\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\WebDriver.Support.dll
 H:\E-Drive\Learnings\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 H:\E-Drive\Learnings\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\WebDriver.Support.xml
+C:\Users\bhatpavi\source\repos\pavithra-pvb\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bhatpavi\source\repos\pavithra-pvb\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\MSTestExtensions.dll
+C:\Users\bhatpavi\source\repos\pavithra-pvb\Hands-On\Selenium_With_CS\OnlineShoePortal\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

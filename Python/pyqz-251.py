@@ -1,0 +1,1 @@
+for i in range(r:=int(input('Enter number of rows\n'))*2):print(('*'*(r-abs(i*2-r)-1)).center(r))
